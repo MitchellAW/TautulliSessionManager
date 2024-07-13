@@ -54,7 +54,7 @@ class TautulliSessionManager:
             int: The status code returned from the termination request
         """
 
-        print(f"Terminating plex session {session_key}.\n")
+        print(f"Terminating plex session {session_key}.")
 
         url_keys = f"&session_key={session_key}&message={self.message}"
 
