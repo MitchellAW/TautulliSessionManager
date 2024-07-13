@@ -1,0 +1,5 @@
+{
+    "tautulli_url": "http://localhost:8181",
+    "api_key": "<API_KEY_HERE>",
+    "message": "\nSorry, the Plex server has experienced a power outage for 30 minutes."
+}
